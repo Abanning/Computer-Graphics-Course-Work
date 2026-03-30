@@ -1,4 +1,4 @@
-# Advanced 3D Computer Graphics — Graduate Course Portfolio
+# WORK IN PROGRESS - Advanced 3D Computer Graphics — Graduate Course Portfolio
 
 This repository showcases work completed as part of a graduate-level **Advanced 3D Computer Graphics** course. Each project demonstrates a progression of technical skills and a deepening understanding of core computer graphics concepts, all implemented in **Unity 2022.3.20f1**.
 
