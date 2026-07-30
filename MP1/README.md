@@ -9,3 +9,8 @@ Cylinder: Scales to (0.5,1,1), travels along the Z-axis at 1.5 units/sec, rotat
 Cube: Scales to (1,1,1), travels along the X-axis at 2 units/sec, rotates at 135∘/sec, and oscillates between X=0 and X=5, changing color between white (+X) and yellow (−X).  
 
 Non-visible user interactions include Left-Mouse-Button (LMB) raycasting on the Creation Plane to reposition the Creation Target, and clicking on spawned primitives to delete them from the scene without moving the target.
+
+To try the project, navigate to the Executables folder and download the zip file for your system (MacOS Intel or Apple Silicon, Windows 7+ - x64 or x86). Further instructions will be provided in the next README. If your system is not available, you may request a new build by contacting me at banning.alexanderjames@gmail.com. Demo videos of each project being added soon.
+
+### Code Release Restrictions
+Because this is a University of Washington Bothell course, I cannot publicly release my code solutions to these problems. However, code samples may be sent by request for hiring purposes (e.g. reviewing my previous work as it relates to a software engineering job).
