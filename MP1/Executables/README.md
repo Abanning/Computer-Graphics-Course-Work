@@ -1,9 +1,17 @@
-# Windows Users
+# MP1 Executable Builds
 
-1. Download "Windows Build.zip" and extract to the desired place (#YOUR_FOLDER).
-2. Run the app using #YOUR_FOLDER/Windows\ Build/AlexBanningMP1.exe.
+This folder contains pre-compiled, standalone executable builds of Machine Problem 1 for both **macOS** and **Windows**. The builds run in a resizable windowed mode at an initial resolution of 1920x1080.
 
+## Installation & Running Instructions
 
-# Mac Users
-1. Download "MacOS Build.zip" and extract to the desired place (#YOUR_FOLDER).
-2. Run the app using #YOUR_FOLDER/MacOS\ Build/AlexBanningMP1.app.
+### macOS
+1. Download the `MacOS Build.zip` archive from this directory.
+2. Extract the archive to your local machine.
+3. Open the extracted folder and run the executable:
+     MacOS Build/AlexBanningMP1
+
+### Windows
+1. Download the Windows Build.zip archive from this directory.
+2. Extract the archive to your local machine.
+3. Open the extracted folder and run the executable:
+     Windows Build\AlexBanningMP1\AlexBanningMP1.exe
