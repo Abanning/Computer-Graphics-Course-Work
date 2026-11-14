@@ -9,3 +9,37 @@ Traveling Ball Shadow Projection: When a TravelingBall is in front of TheBarrier
 Front-Facing Reflection: If a TravelingBall collides with TheBarrier from the front, its velocity vector reflects across the surface normal. Balls approaching from the rear pass through unaffected.  
 
 AimLine & BigLine Intersections: When an AimLine intersects the active region of TheBarrier from the front, its reflected path is calculated and displayed as a separate green line segment of identical length. Additionally, TravelingBalls project white shadow markers and reflecting paths onto nearby BigLines when passing within a 10-unit perpendicular threshold.
+
+# Screenshots:
+<figure>
+  <img width="600" height="337" alt="Normal" src="https://github.com/user-attachments/assets/4d3476fa-94b7-4a87-ba67-adf92513eca4" />
+  <br />
+  <figcaption>Continuation of MP3 - Now supporting collisions with a barrier, projected shadows on the barrier, and projected positions based on distance from traveling balls to any BigLine.</figcaption>
+</figure>
+
+<figure>
+  <img width="600" height="337" alt="Bouncing_BigLine" src="https://github.com/user-attachments/assets/2dd49b85-ffc6-4c52-8156-a2dabecf4c74" />
+  <br />
+  <figcaption>Demonstrating collisions of traveling balls against BigLines.</figcaption>
+</figure>
+
+<figure>
+  <img width="600" height="337" alt="Barrier_Rotation" src="https://github.com/user-attachments/assets/273d6b14-1ff9-41b5-a631-f684fb506294" />
+  <br />
+  <figcaption>Barrier rotation demo - Collisions only happen when balls hit the front face of the barrier.</figcaption>
+</figure>
+
+<figure>
+  <img width="600" height="337" alt="Create" src="https://github.com/user-attachments/assets/49057777-6da5-4256-8c94-698d2ef6bdce" />
+  <br />
+  <figcaption>Still has the same creation feature as MP3, now added Barrier creation by clicking the floor.</figcaption>
+</figure>
+
+<figure>
+  <img width="415" height="233" alt="Barrier_Selection" src="https://github.com/user-attachments/assets/5e7215fc-f167-4649-a029-933c4cd528b8" />
+  <br />
+  <figcaption>Multiple barriers and lines can be placed. Clicking on a barrier selects it and enables the slider controls.</figcaption>
+</figure>  <br />
+  <br />
+
+
