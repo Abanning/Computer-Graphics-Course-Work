@@ -11,10 +11,13 @@ Hierarchical Primitive Creation (CreatePrimitive GUI): Users can dynamically spa
 # Screenshots:
 <figure>
   <img width="600" height="337" alt="Demo1" src="https://github.com/user-attachments/assets/472def13-251d-4080-bd23-0326d2ca4f78" />
+  </br>
   <figcaption>Demonstration of hierarchical TSR manipulation using custom sliders.</figcaption>
 </figure>
 </br>
 <figure>
   <img width="600" height="337" alt="Tornado" src="https://github.com/user-attachments/assets/d71fe555-10e0-4fb2-b311-4de3551d805b" />
+  </br>
   <figcaption>Extra Credit - Tornado animation reset scene</figcaption>
 </figure>
+</br>
