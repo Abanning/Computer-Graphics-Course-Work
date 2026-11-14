@@ -14,32 +14,32 @@ To try the project, navigate to the Executables folder and download the zip file
 
 # Screenshots:
 <figure>
-  <img width="600" alt="Create_Sphere" src="https://github.com/user-attachments/assets/PASTE_UPLOADED_GIF_URL_HERE" />
+  <img width="600" alt="Create_Sphere" src="https://github.com/user-attachments/assets/a36e1fe0-781e-4bbc-9160-8e8e45370938" />
   <figcaption>Create Sphere function</figcaption>
 </figure>
 
 <figure>
-  <img width="600" alt="Create_Cylinder" src="https://github.com/user-attachments/assets/PASTE_UPLOADED_GIF_URL_HERE" />
+  <img width="600" height="338" alt="Create_Cylinder" src="https://github.com/user-attachments/assets/aa1c81b4-f9d0-4049-bcd3-8ea10e7df2b1" />
   <figcaption>Create Cylinder function</figcaption>
 </figure>
 
 <figure>
-  <img width="600" alt="Create_Cube" src="https://github.com/user-attachments/assets/PASTE_UPLOADED_GIF_URL_HERE" />
+  <img width="600" height="338" alt="Create_Cube" src="https://github.com/user-attachments/assets/89697415-81a6-4b95-b652-c7f3897a111d" />
   <figcaption>Create Cube function</figcaption>
 </figure>
 
 <figure>
-  <img width="600" alt="CreationTarget" src="https://github.com/user-attachments/assets/PASTE_UPLOADED_GIF_URL_HERE" />
+  <img width="600" height="338" alt="CreationTarget" src="https://github.com/user-attachments/assets/5d93513d-1663-48e3-9107-5e3edccd7076" />
   <figcaption>CreationTarget functions - Move and Color</figcaption>
 </figure>
 
 <figure>
-  <img width="600" alt="Freeze_All" src="https://github.com/user-attachments/assets/PASTE_UPLOADED_GIF_URL_HERE" />
+  <img width="600" height="338" alt="Freeze_All" src="https://github.com/user-attachments/assets/b42cb7c7-f1a4-4f14-98fc-bac7ffb199d7" />
   <figcaption>Freeze All Objects</figcaption>
 </figure>
 
 <figure>
-  <img width="600" alt="Avatar" src="https://github.com/user-attachments/assets/PASTE_UPLOADED_GIF_URL_HERE" />
+  <img width="600" height="338" alt="Avatar" src="https://github.com/user-attachments/assets/b7010fb9-b9a8-4372-ac91-3562e91190cb" />
   <figcaption>Extra Credit - Avatar Elements</figcaption>
 </figure>
 
