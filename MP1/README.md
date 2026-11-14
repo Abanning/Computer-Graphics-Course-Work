@@ -14,39 +14,35 @@ To try the project, navigate to the Executables folder and download the zip file
 
 # Screenshots:
 
-<img width="220" height="124" alt="Create_Sphere" src="https://github.com/user-attachments/assets/54a3f497-2b07-4ebe-b4c1-371717181040" />
-<br>
-Create Sphere function
+<figure>
+  <img width="600" alt="Create_Sphere" src="https://github.com/user-attachments/assets/54a3f497-2b07-4ebe-b4c1-371717181040" />
+  <figcaption>Create Sphere function</figcaption>
+</figure>
 
-<br>
+<figure>
+  <img width="600" alt="Create_Cylinder" src="https://github.com/user-attachments/assets/30fd6d88-4f13-481f-bdc0-e9a1c5771e0d" />
+  <figcaption>Create Cylinder function</figcaption>
+</figure>
 
-<img width="258" height="146" alt="Create_Cylinder" src="https://github.com/user-attachments/assets/30fd6d88-4f13-481f-bdc0-e9a1c5771e0d" />
-<br>
-Create Cylinder function
+<figure>
+  <img width="600" alt="Create_Cube" src="https://github.com/user-attachments/assets/fa718f08-424e-48f2-87c4-dd76c1e1a1a9" />
+  <figcaption>Create Cube function</figcaption>
+</figure>
 
-<br>
+<figure>
+  <img width="600" alt="Move_CreationTarget" src="https://github.com/user-attachments/assets/3a9e13fe-4583-4cc8-9497-945c66e00e01" />
+  <figcaption>CreationTarget functions - Move on click and color control</figcaption>
+</figure>
 
-<img width="314" height="178" alt="Create_Cube" src="https://github.com/user-attachments/assets/fa718f08-424e-48f2-87c4-dd76c1e1a1a9" />
-<br>
-Create Cube function
+<figure>
+  <img width="600" alt="Freeze_All" src="https://github.com/user-attachments/assets/7a64ce5d-3bcf-42ec-986b-976569252326" />
+  <figcaption>Freeze All Objects function</figcaption>
+</figure>
 
-<br>
-
-<img width="160" height="90" alt="Move_CreationTarget" src="https://github.com/user-attachments/assets/3a9e13fe-4583-4cc8-9497-945c66e00e01" />
-<br>
-CreationTarget functions - Move on click and color control
-
-<br>
-
-<img width="322" height="182" alt="Freeze_All" src="https://github.com/user-attachments/assets/7a64ce5d-3bcf-42ec-986b-976569252326" />
-<br>
-Freeze All Objects function
-
-<br>
-
-<img width="800" height="451" alt="Extra_Credit" src="https://github.com/user-attachments/assets/708e5203-ed84-448b-921a-104eb7f550e5" />
-<br>
-Extra Credit - Avatar Style "Elements" to Reset
+<figure>
+  <img width="600" alt="Extra_Credit" src="https://github.com/user-attachments/assets/708e5203-ed84-448b-921a-104eb7f550e5" />
+  <figcaption>Extra Credit - Avatar Style "Elements" to Reset</figcaption>
+</figure>
 
 ### Code Release Restrictions
 Because this is a University of Washington Bothell course, I cannot publicly release my code solutions to these problems. However, code samples may be sent by request for hiring purposes (e.g. reviewing my previous work as it relates to a software engineering job).
