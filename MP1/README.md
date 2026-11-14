@@ -12,5 +12,25 @@ Non-visible user interactions include Left-Mouse-Button (LMB) raycasting on the 
 
 To try the project, navigate to the Executables folder and download the zip file for your system (MacOS Intel or Apple Silicon, Windows 7+ - x64 or x86). Further instructions will be provided in the next README. If your system is not available, you may request a new build by contacting me at banning.alexanderjames@gmail.com. Demo videos of each project being added soon.
 
+# Screenshots:
+<img width="220" height="124" alt="Create_Sphere" src="https://github.com/user-attachments/assets/54a3f497-2b07-4ebe-b4c1-371717181040" />
+Create Sphere function
+
+<img width="258" height="146" alt="Create_Cylinder" src="https://github.com/user-attachments/assets/30fd6d88-4f13-481f-bdc0-e9a1c5771e0d" />
+Create Cylinder function
+
+<img width="314" height="178" alt="Create_Cube" src="https://github.com/user-attachments/assets/fa718f08-424e-48f2-87c4-dd76c1e1a1a9" />
+Create Cube function
+
+<img width="160" height="90" alt="Move_CreationTarget" src="https://github.com/user-attachments/assets/3a9e13fe-4583-4cc8-9497-945c66e00e01" />
+CreationTarget functions - Move on click and color control
+
+<img width="322" height="182" alt="Freeze_All" src="https://github.com/user-attachments/assets/7a64ce5d-3bcf-42ec-986b-976569252326" />
+Freeze All Objects function
+
+<img width="800" height="451" alt="Extra_Credit" src="https://github.com/user-attachments/assets/708e5203-ed84-448b-921a-104eb7f550e5" />
+Extra Credit - Avatar Style "Elements" to Reset
+
 ### Code Release Restrictions
 Because this is a University of Washington Bothell course, I cannot publicly release my code solutions to these problems. However, code samples may be sent by request for hiring purposes (e.g. reviewing my previous work as it relates to a software engineering job).
+
