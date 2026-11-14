@@ -11,12 +11,6 @@ CPU-Based UV Texture Mapping (Matrix3x3): Implements a custom 2D affine transfor
 Illumination & Integrated Camera Controls: Integrates the orbital Tumble/Track/Dolly camera system (Alt + LMB) from MP5. Includes a lighting system featuring a Directional Light aligned with the camera view and a user-controlled Point Light with adjustable X/Y/Z positional sliders.
 
 # Screenshots:
-
-
-
-
-
-
 <figure>
   <img width="600" height="336" alt="MeshControls_Sliders" src="https://github.com/user-attachments/assets/60d18194-33f7-48b3-b22b-7afe3dacd122" />
   <br />
@@ -48,6 +42,6 @@ Illumination & Integrated Camera Controls: Integrates the orbital Tumble/Track/D
 <figure>
   <img width="600" height="336" alt="Cylinder_VertexDrag" src="https://github.com/user-attachments/assets/d723ca3b-50de-4d1b-9a02-a438db7854cd" />
   <br />
-  <figcaption>Same functionality with vertex repositioning as the mesh object.</figcaption>
+  <figcaption>Same functionality with vertex repositioning as the mesh object. Changes applied to the white vertex position affect all of the vertexes in that row.</figcaption>
 </figure>
 <br />
